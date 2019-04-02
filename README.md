@@ -1,11 +1,10 @@
 ## Kaggle-Project--Airbnb-
 
-Predicting Airbnb rental prices in New York CIty
+Predicting Airbnb rental prices in New York CIty. This school wide competition was held from Sept 2018 - Dec 2018 and I managed to finish within Top 7 % of the leaderboard by applying predictive analytics techniques on a fairly complex dataset.
 
 ## Introduction
 
-The aim of the project was to predict the rental prices of over 25,000 Airbnb listings in NYC. The predictions had to be made using 95 variables which made 
-feature selection extremely important. To check for the accuracy of predictions, RMSE(root mean squared error) was computed.
+The aim of the project was to predict the rental prices of over 25,000 Airbnb listings in NYC. The predictions had to be made using 95 variables which made feature selection extremely important. To check for the accuracy of predictions, RMSE(root mean squared error) metric was computed.
 
 ## Exploratory Data Analysis
 
